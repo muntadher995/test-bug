@@ -1,0 +1,93 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\mypc\\Desktop\\BugBroJect233 - Copy\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{FCA2861F-8A2B-46C7-8631-2101DE5E835D}|BugProject.csproj|c:\\users\\mypc\\desktop\\bugbroject233 - copy\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{FCA2861F-8A2B-46C7-8631-2101DE5E835D}|BugProject.csproj|solutionrelative:appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FCA2861F-8A2B-46C7-8631-2101DE5E835D}|BugProject.csproj|c:\\users\\mypc\\desktop\\bugbroject233 - copy\\financeproject.http||{5703B403-55E7-4C63-8C88-A8F52C7A45C5}",
+      "RelativeMoniker": "D:0:0:{FCA2861F-8A2B-46C7-8631-2101DE5E835D}|BugProject.csproj|solutionrelative:financeproject.http||{5703B403-55E7-4C63-8C88-A8F52C7A45C5}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FCA2861F-8A2B-46C7-8631-2101DE5E835D}|BugProject.csproj|c:\\users\\mypc\\desktop\\bugbroject233 - copy\\controllers\\bugscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FCA2861F-8A2B-46C7-8631-2101DE5E835D}|BugProject.csproj|solutionrelative:controllers\\bugscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FCA2861F-8A2B-46C7-8631-2101DE5E835D}|BugProject.csproj|c:\\users\\mypc\\desktop\\bugbroject233 - copy\\migrations\\appdbcontextmodelsnapshot.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FCA2861F-8A2B-46C7-8631-2101DE5E835D}|BugProject.csproj|solutionrelative:migrations\\appdbcontextmodelsnapshot.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\mypc\\Desktop\\BugBroJect233 - Copy\\appsettings.json",
+              "RelativeDocumentMoniker": "appsettings.json",
+              "ToolTip": "C:\\Users\\mypc\\Desktop\\BugBroJect233 - Copy\\appsettings.json",
+              "RelativeToolTip": "appsettings.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAMAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-09-11T13:06:39.709Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "FinanceProject.http",
+              "DocumentMoniker": "C:\\Users\\mypc\\Desktop\\BugBroJect233 - Copy\\FinanceProject.http",
+              "RelativeDocumentMoniker": "FinanceProject.http",
+              "ToolTip": "C:\\Users\\mypc\\Desktop\\BugBroJect233 - Copy\\FinanceProject.http",
+              "RelativeToolTip": "FinanceProject.http",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003502|",
+              "WhenOpened": "2024-09-11T13:02:58.717Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "AppDBContextModelSnapshot.cs",
+              "DocumentMoniker": "C:\\Users\\mypc\\Desktop\\BugBroJect233 - Copy\\Migrations\\AppDBContextModelSnapshot.cs",
+              "RelativeDocumentMoniker": "Migrations\\AppDBContextModelSnapshot.cs",
+              "ToolTip": "C:\\Users\\mypc\\Desktop\\BugBroJect233 - Copy\\Migrations\\AppDBContextModelSnapshot.cs",
+              "RelativeToolTip": "Migrations\\AppDBContextModelSnapshot.cs",
+              "ViewState": "AQIAAB0AAAAAAAAAAAAAAGEAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-11T12:59:17.014Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Bugscontroller.cs",
+              "DocumentMoniker": "C:\\Users\\mypc\\Desktop\\BugBroJect233 - Copy\\Controllers\\Bugscontroller.cs",
+              "RelativeDocumentMoniker": "Controllers\\Bugscontroller.cs",
+              "ToolTip": "C:\\Users\\mypc\\Desktop\\BugBroJect233 - Copy\\Controllers\\Bugscontroller.cs",
+              "RelativeToolTip": "Controllers\\Bugscontroller.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABIAAAApAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-11T12:49:50.229Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

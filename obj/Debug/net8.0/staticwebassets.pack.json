@@ -1,0 +1,97 @@
+{
+  "Files": [
+    {
+      "Id": "C:\\Users\\mypc\\Desktop\\BugBroJect233\\wwwroot\\images\\1.png",
+      "PackagePath": "staticwebassets\\images\\1.png"
+    },
+    {
+      "Id": "C:\\Users\\mypc\\Desktop\\BugBroJect233\\wwwroot\\images\\11d309a4-ce4d-4d41-b58b-631d58072638.png",
+      "PackagePath": "staticwebassets\\images\\11d309a4-ce4d-4d41-b58b-631d58072638.png"
+    },
+    {
+      "Id": "C:\\Users\\mypc\\Desktop\\BugBroJect233\\wwwroot\\images\\17111c35-0848-4251-adfc-2551b16b3c04.png",
+      "PackagePath": "staticwebassets\\images\\17111c35-0848-4251-adfc-2551b16b3c04.png"
+    },
+    {
+      "Id": "C:\\Users\\mypc\\Desktop\\BugBroJect233\\wwwroot\\images\\2.png",
+      "PackagePath": "staticwebassets\\images\\2.png"
+    },
+    {
+      "Id": "C:\\Users\\mypc\\Desktop\\BugBroJect233\\wwwroot\\images\\21690080-f008-4e0d-9e30-2152f0e6ab3f.png",
+      "PackagePath": "staticwebassets\\images\\21690080-f008-4e0d-9e30-2152f0e6ab3f.png"
+    },
+    {
+      "Id": "C:\\Users\\mypc\\Desktop\\BugBroJect233\\wwwroot\\images\\278420f1-0736-485a-95bf-8740c892251c.png",
+      "PackagePath": "staticwebassets\\images\\278420f1-0736-485a-95bf-8740c892251c.png"
+    },
+    {
+      "Id": "C:\\Users\\mypc\\Desktop\\BugBroJect233\\wwwroot\\images\\753a5c3e-8bf6-4022-9f37-3d17b16c9827.png",
+      "PackagePath": "staticwebassets\\images\\753a5c3e-8bf6-4022-9f37-3d17b16c9827.png"
+    },
+    {
+      "Id": "C:\\Users\\mypc\\Desktop\\BugBroJect233\\wwwroot\\images\\76c7e039-730f-4eda-8653-28c4f48233c6.png",
+      "PackagePath": "staticwebassets\\images\\76c7e039-730f-4eda-8653-28c4f48233c6.png"
+    },
+    {
+      "Id": "C:\\Users\\mypc\\Desktop\\BugBroJect233\\wwwroot\\images\\785b66b8-daa0-4610-8aa0-cd910c218a73.png",
+      "PackagePath": "staticwebassets\\images\\785b66b8-daa0-4610-8aa0-cd910c218a73.png"
+    },
+    {
+      "Id": "C:\\Users\\mypc\\Desktop\\BugBroJect233\\wwwroot\\images\\8158176b-0cb9-4717-aafa-0ab45fbb6204.png",
+      "PackagePath": "staticwebassets\\images\\8158176b-0cb9-4717-aafa-0ab45fbb6204.png"
+    },
+    {
+      "Id": "C:\\Users\\mypc\\Desktop\\BugBroJect233\\wwwroot\\images\\9fd6354a-351d-46b5-b2c4-a38b37e3b7fb.png",
+      "PackagePath": "staticwebassets\\images\\9fd6354a-351d-46b5-b2c4-a38b37e3b7fb.png"
+    },
+    {
+      "Id": "C:\\Users\\mypc\\Desktop\\BugBroJect233\\wwwroot\\images\\OIG2.jpg",
+      "PackagePath": "staticwebassets\\images\\OIG2.jpg"
+    },
+    {
+      "Id": "C:\\Users\\mypc\\Desktop\\BugBroJect233\\wwwroot\\images\\bb9881c6-1e10-4d32-8176-061c80aa45ef.jpg",
+      "PackagePath": "staticwebassets\\images\\bb9881c6-1e10-4d32-8176-061c80aa45ef.jpg"
+    },
+    {
+      "Id": "C:\\Users\\mypc\\Desktop\\BugBroJect233\\wwwroot\\images\\bed92d44-38d9-492d-b1fd-191b93f11215.png",
+      "PackagePath": "staticwebassets\\images\\bed92d44-38d9-492d-b1fd-191b93f11215.png"
+    },
+    {
+      "Id": "C:\\Users\\mypc\\Desktop\\BugBroJect233\\wwwroot\\images\\c4779944-141e-4903-a873-0e57bc2c8757.png",
+      "PackagePath": "staticwebassets\\images\\c4779944-141e-4903-a873-0e57bc2c8757.png"
+    },
+    {
+      "Id": "C:\\Users\\mypc\\Desktop\\BugBroJect233\\wwwroot\\images\\db9ae73a-1009-4805-aa67-3d4c1bb8be98.png",
+      "PackagePath": "staticwebassets\\images\\db9ae73a-1009-4805-aa67-3d4c1bb8be98.png"
+    },
+    {
+      "Id": "C:\\Users\\mypc\\Desktop\\BugBroJect233\\wwwroot\\images\\dfc14331-8a52-4ebc-8bd0-7d2a8246052b.jpg",
+      "PackagePath": "staticwebassets\\images\\dfc14331-8a52-4ebc-8bd0-7d2a8246052b.jpg"
+    },
+    {
+      "Id": "C:\\Users\\mypc\\Desktop\\BugBroJect233\\wwwroot\\images\\docker.png",
+      "PackagePath": "staticwebassets\\images\\docker.png"
+    },
+    {
+      "Id": "C:\\Users\\mypc\\Desktop\\BugBroJect233\\wwwroot\\images\\docker1.png",
+      "PackagePath": "staticwebassets\\images\\docker1.png"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.BugProject.Microsoft.AspNetCore.StaticWebAssets.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssets.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.build.BugProject.props",
+      "PackagePath": "build\\BugProject.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.buildMultiTargeting.BugProject.props",
+      "PackagePath": "buildMultiTargeting\\BugProject.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.buildTransitive.BugProject.props",
+      "PackagePath": "buildTransitive\\BugProject.props"
+    }
+  ],
+  "ElementsToRemove": []
+}
